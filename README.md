@@ -1,4 +1,4 @@
-# React-Native-Gauge
+# react-native-gauge
 A gauge in react-native
 
 Modified version of https://github.com/pritishvaidya/react-native-speedometer
